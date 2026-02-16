@@ -23,7 +23,8 @@ B. Plant Species Section
  
 
 ![1](https://github.com/user-attachments/assets/5694eb11-ac35-4602-af5d-c528889c11bf)
-
+Common Name: Kabocha squash (also called Japanese pumpkin)
+Scientific Name: Cucurbita maxima (Kabocha group)
 
 Kabocha squash, also known as Japanese pumpkin (Cucurbita maxima), is a warm-season creeping vine in the gourd family (Cucurbitaceae), which includes pumpkins, melons, and cucumbers. It grows long trailing stems with curling tendrils, broad green leaves, and bright yellow flowers that develop into round or slightly flattened fruits with hard green rinds and sweet, dense orange flesh.
 
