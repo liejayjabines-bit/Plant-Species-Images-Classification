@@ -34,6 +34,8 @@ For image classification or machine learning projects, kabocha squash is ideal d
 
 
 2 https://revivalseeds.ca/products/apple-gourd?srsltid=AfmBOoqcgrkeV99-Nz8StmmFynh6XNfjLy6mC2DB9GsJM3pcFns7_rc3 
+ Scientific Name: Praecitrullus fistulosus
+ Meaning / Description:A small round gourd cultivated as a vegetable, common in South Asia.
 
 
 
