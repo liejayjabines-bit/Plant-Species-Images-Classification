@@ -33,7 +33,8 @@ Kabocha thrives in warm, sunny climates with fertile, well-drained soil. It requ
 For image classification or machine learning projects, kabocha squash is ideal due to its distinct vine growth, leaf shape, fruit color, and texture, making it easy to recognize as a creeper plant.
 
 
-2 https://revivalseeds.ca/products/apple-gourd?srsltid=AfmBOoqcgrkeV99-Nz8StmmFynh6XNfjLy6mC2DB9GsJM3pcFns7_rc3 
+2 <img width="1280" height="1094" alt="image" src="https://github.com/user-attachments/assets/7163c0a8-4676-4366-b4c3-ce02d7bd4e95" />
+
  Scientific Name: Praecitrullus fistulosus
  Meaning / Description:A small round gourd cultivated as a vegetable, common in South Asia.
 
