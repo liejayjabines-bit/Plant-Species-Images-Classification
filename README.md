@@ -33,6 +33,24 @@ Kabocha thrives in warm, sunny climates with fertile, well-drained soil. It requ
 For image classification or machine learning projects, kabocha squash is ideal due to its distinct vine growth, leaf shape, fruit color, and texture, making it easy to recognize as a creeper plant.
 
 
+2 https://revivalseeds.ca/products/apple-gourd?srsltid=AfmBOoqcgrkeV99-Nz8StmmFynh6XNfjLy6mC2DB9GsJM3pcFns7_rc3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 C. Model Training Details
 
 <img width="328" height="673" alt="Screenshot 2026-02-14 004309" src="https://github.com/user-attachments/assets/8343538c-7260-43c6-8acc-a6be171ecbe6" />
