@@ -3,6 +3,11 @@
 																																								
  DATA SET SCREENSHOT
  <img width="1753" height="902" alt="image" src="https://github.com/user-attachments/assets/5de2a4de-b701-4fd5-9ba5-781fd028bf02" />
+ 
+ 20 Plant Species Images:
+
+ <img width="1620" height="280" alt="image" src="https://github.com/user-attachments/assets/a3907db6-8552-4edd-9a30-b792ff832356" />
+
 
 GOOGLE DRIVE : https://drive.google.com/drive/folders/12a1sRTAuLs1M3yEk7DVok5PWsAxNtgn9?usp=sharing
   
